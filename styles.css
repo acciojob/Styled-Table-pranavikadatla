@@ -1,14 +1,15 @@
 /* your code */
 #table{
 	background:white;
-	border:1px  solid black;
-	border-radius:4px;
-	
+	border-collapse:collapse;	
 }
 #heading{
 	padding:0px;
 	margin:0px;
 	background:skyblue;
-	border:1px solid black;
-	border-radius:4px;
+	color:white;
+}
+th{
+	padding-right:2px;
+	
 }
